@@ -26,5 +26,6 @@ Category.init(
     modelName: 'category',
   }
 );
+/////test change 
 
 module.exports = Category;
